@@ -19,8 +19,7 @@
     "Password": "",
     "NumWorkoutsToDownload": 1,
     "ExcludeWorkoutTypes": [ 
-      "OutdoorRunning", 
-      "OutdoorWalking", 
+      "OutdoorRunning",
       "OutdoorCycling"
      ]
   },
