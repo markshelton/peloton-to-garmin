@@ -46,7 +46,6 @@ jobs:
             "NumWorkoutsToDownload": ${{ github.event.inputs.workoutsToDownload || env.DEFAULT_WORKOUT_NUM }},
             "ExcludeWorkoutTypes": [ 
               "OutdoorRunning", 
-              "OutdoorWalking", 
               "OutdoorCycling"
            ]
           },
